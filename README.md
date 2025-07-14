@@ -1,6 +1,6 @@
 # Machine Learning with Python
 
-A comprehensive collection of Jupyter notebooks and projects demonstrating fundamental machine learning concepts and data science techniques using Python.
+A repository for learning fundamental machine learning concepts and data science techniques using Python.
 
 ## 📋 Repository Contents
 
@@ -35,35 +35,7 @@ A comprehensive collection of Jupyter notebooks and projects demonstrating funda
 
 - **`AI.gdoc`** - Additional AI and machine learning documentation
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have Python 3.7+ installed with the following packages:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
-```
-
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/hosseinsz93/machine-learning-with-python.git
-cd machine-learning-with-python
-```
-
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-## 📚 Learning Path
+##  Learning Path
 
 For beginners, we recommend following this learning sequence:
 
@@ -84,12 +56,6 @@ For beginners, we recommend following this learning sequence:
 - Feature selection and comparison
 - Performance metrics (R², MAE, MSE, RMSE)
 - Train/test data splitting
-
-### Practical Skills
-- Data preprocessing and cleaning
-- Exploratory data analysis (EDA)
-- Model interpretation and validation
-- Scientific plotting and visualization
 
 ## 📈 Project Highlights
 
@@ -120,15 +86,6 @@ The simple linear regression model demonstrates:
 - Practical applications for environmental impact assessment
 - Clear visualization of relationships in automotive data
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests for:
-
-- Additional machine learning algorithms
-- New datasets and examples
-- Improved documentation
-- Bug fixes and optimizations
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -148,7 +105,3 @@ For questions, suggestions, or collaboration opportunities:
 - Repository: [machine-learning-with-python](https://github.com/hosseinsz93/machine-learning-with-python)
 
 ---
-
-⭐ **Star this repository if you find it helpful!**
-
-*This repository is maintained for educational purposes and to demonstrate machine learning concepts using Python.*
